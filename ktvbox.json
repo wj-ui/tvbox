@@ -77,7 +77,7 @@
     {"key": "fczy888", "name": "蜂巢片库", "type": 1, "api": "https://api.fczy888.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
     {"key": "jmzy", "name": "金马资源网", "type": 1, "api": "https://api.jmzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
     {"key": "dadiapi", "name": "大地资源网络", "type": 1, "api": "https://dadiapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
-    {"key": "xiaojizy", "name": "小鸡资源", "type": 1, "api": "https://api.xiaojizy.live/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1}
+    {"key": "xiaojizy", "name": "小鸡资源", "type": 1, "api": "https://api.xiaojizy.live/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
     {"key": "kuaichezy", "name": "快车资源", "type": 1, "api": "https://caiji.kuaichezy.org/api.php/provide/", "searchable": 1, "quickSearch": 1, "filterable": 1},
     {"key": "xinlangapi_provide", "name": "新浪资源", "type": 1, "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
     {"key": "yzzy_api", "name": "优质资源库", "type": 1, "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},

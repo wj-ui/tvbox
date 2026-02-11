@@ -23,7 +23,7 @@
     ]
   },
   "urls": [
-    { "url": "http://www.饭太硬.com/tv", "name": "饭太硬【推荐】" },
+    { "url": "http://www.饭太硬.com/tv", "name": "饭太硬【推荐】(推荐优先使用，失效则更换备用源)" },
     { "url": "http://www.饭太硬.net/tv", "name": "饭太硬备用1" },
     { "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp", "name": "饭太硬备用3" },
     

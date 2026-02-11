@@ -1,0 +1,68 @@
+{
+  "name": "自建TVBox多仓源",
+  "version": "1.0.0",
+  "updateTime": "2026-02-11",
+  "description": "个人自用TVBox多仓聚合源，仅用于学习交流，请勿商用",
+  "disclaimer": {
+    "title": "【重要声明】",
+    "content": [
+      "1. 本数据源仅为个人学习交流使用，严禁用于商业用途；",
+      "2. 所有资源均来源于网络公开分享，版权归原作者/平台所有；",
+      "3. 若涉及侵权，请联系作者删除相关源地址；",
+      "4. 使用本数据源产生的一切责任，均由使用者自行承担；",
+      "5. 建议在24小时内删除下载的内容，遵守相关法律法规。"
+    ]
+  },
+  "tips": {
+    "title": "【使用提示】",
+    "content": [
+      "1. 标注【推荐】的源优先使用，稳定性更高；",
+      "2. 部分源可能会不定期失效，可切换备用地址；",
+      "3. 若源无法加载，检查网络或更换DNS后重试；",
+      "4. 建议定期更新本多仓源地址，获取最新源列表。"
+    ]
+  },
+  "urls": [
+    { "url": "http://www.饭太硬.com/tv", "name": "饭太硬【推荐】" },
+    { "url": "http://www.饭太硬.net/tv", "name": "饭太硬备用1" },
+    { "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp", "name": "饭太硬备用3" },
+    
+    { "url": "http://我不是.摸鱼儿.com", "name": "摸鱼儿【推荐】" },
+    { "url": "http://我不是.摸鱼儿.xyz", "name": "摸鱼儿备用1" },
+    { "url": "http://我不是.摸鱼儿.top", "name": "摸鱼儿备用2" },
+
+    { "url": "http://ok321.top/ok", "name": "OK佬【推荐】" },
+    { "url": "http://ok213.top/tv", "name": "OK佬备用1" },
+    { "url": "http://ok521.top/tv", "name": "OK佬备用2" },
+    { "url": "https://10352.kstore.vip/ok", "name": "OK佬备用3" },
+
+    { "url": "http://肥猫.com", "name": "肥猫【推荐】" },
+    { "url": "http://hello.肥猫.com/tv", "name": "肥猫备用1" },
+    { "url": "https://6296.kstore.space/fm.gif", "name": "肥猫备用2" },
+
+    { "url": "http://tvbox.王二小放牛娃.top", "name": "王二小" },
+    { "url": "http://tv.999888987.xyz/", "name": "王二小备用1" },
+    { "url": "https://9280.kstore.vip/wex.json", "name": "王二小备用2" },
+
+    { "url": "https://raw.githubusercontent.com/wj-ui/tvbox/refs/heads/main/ktvbox.json", "name": "我的ktv源" },
+    { "url": "https://gitee.com/lin-xingyang5754/ktvbox/raw/master/ktvbox.json", "name": "我的ktv源备用1" },
+
+    { "url": "https://xn--anna-wn6lw489o.v.nxog.top/m", "name": "欧歌单线【推荐】" },
+    { "url": "https://9877.kstore.space/AnotherD/api.json", "name": "潇洒【推荐】" },
+    { "url": "http://fmys.top/fmys.json", "name": "驸马【推荐】" },
+    { "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json", "name": "青龙" },
+    { "url": "http://hb.小虎斑.site:25252/仅供测试.json", "name": "小虎斑" },
+    { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧记" },
+    { "url": "http://home.jundie.top:81/top98.json", "name": "俊哥" },
+    { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "南风" },
+    { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "name": "香雅情" },
+    { "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json", "name": "蓝天【源少】" },
+    { "url": "https://chuanshuo.77blog.cn/tv.json", "name": "传说【源少】" },
+
+    { "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟" },
+    { "url": "https://proxy.v2gh.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟备用1" },
+    { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟备用2" },
+    { "url": "https://proxy.api.030101.xyz/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟备用3" },
+    { "url": "https://99z.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟备用4" }
+  ]
+}

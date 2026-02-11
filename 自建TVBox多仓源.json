@@ -27,11 +27,6 @@
     "content": "由xylin收集整理，仅限家人使用。1. 本数据源仅用于学习交流，严禁商用！\n2. 资源版权归原作者所有，侵权联系删除！\n3. 推荐源优先使用，失效请切换备用地址！"
   },
   "urls": [
-    { "url": "#", "name": "由xylin收集整理，仅限家人使用" },
-    { "url": "#", "name": "📢【重要声明】本数据源仅用于学习交流，严禁商用！" },
-    { "url": "#", "name": "⚠️【使用提示】推荐源优先用，失效请切换备用地址" },
-    { "url": "#", "name": "📌【版权说明】资源归原作者所有，侵权联系删除" },
-    
     { "url": "http://www.饭太硬.com/tv", "name": "饭太硬【推荐】(推荐优先使用，失效则更换备用源)" },
     { "url": "http://www.饭太硬.net/tv", "name": "饭太硬备用1" },
     { "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp", "name": "饭太硬备用3" },
@@ -58,6 +53,7 @@
 
     { "url": "https://xn--anna-wn6lw489o.v.nxog.top/m", "name": "欧歌单线【推荐】" },
     { "url": "https://9877.kstore.space/AnotherD/api.json", "name": "潇洒【推荐】" },
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2", "name": "裤佬【推荐】" },
     { "url": "http://fmys.top/fmys.json", "name": "驸马【推荐】" },
     { "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json", "name": "青龙" },
     { "url": "http://hb.小虎斑.site:25252/仅供测试.json", "name": "小虎斑" },
@@ -68,7 +64,7 @@
     { "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json", "name": "蓝天【源少】" },
     { "url": "https://chuanshuo.77blog.cn/tv.json", "name": "传说【源少】" },
 
-    { "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟" },
+    { "url": "https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=1", "name": "小伟" },
     { "url": "https://proxy.v2gh.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟备用1" },
     { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟备用2" },
     { "url": "https://proxy.api.030101.xyz/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟备用3" },
